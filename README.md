@@ -12,5 +12,5 @@ Type 2: Moves diagonally, shoots bullets.
 Type 3: Fast zigzag movement.
 
 # Gameplay: Enemies explode on hit, score display, weapon upgrades (single to triple shot), game pause (P key).
-# Player: Invulnerable, confined to screen.
+Player: Invulnerable, confined to screen.
 Graphics: Uses textures or colored rectangles as fallback.
